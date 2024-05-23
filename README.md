@@ -3,9 +3,16 @@ MS DOS appearance template for HamsterCMS without Bootstrap (386) simple clean c
 
 HTML template with a design similar to DOS programs
 
+layout adapted for Hamster CMS
+also works on  http://web1.0hosting.net/ hosting
+but you can use this template as a normal html template
+
 https://github.com/turboblack/HamsterCMS world's smallest and very simple multi-template flatfile content management system 
 
 this template is special in that it does not have any graphics, it is made exclusively of text symbols
+
+in the template there is a cursor specifically for viewing dark pages, and above the navigation bar 
+there is a special thing to show which page you are on at a given time
 
 HTML template made in the form of MS DOS programs
 
